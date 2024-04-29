@@ -4411,7 +4411,7 @@ ul.pagination.pagination-pasific li.active a {
 }
 
 .navbar-brand-footer {
-    background: url('../../img/logo/logo-gray.png') 0 0 no-repeat;
+    /* background: url('../../img/logo/logo-gray.png') 0 0 no-repeat; */
     display: block;
     width: 100px;
     height: 50px;
